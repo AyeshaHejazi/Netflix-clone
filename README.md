@@ -7,7 +7,7 @@ Note: This project is intended for educational and portfolio purposes only. It i
 Preview
 
 The project recreates the following sections of the Netflix landing page:
-
+<br>
 Hero section
 Navigation bar
 Call-to-action area
@@ -43,14 +43,7 @@ Netflix-Clone/
 ├── index.html
 └── README.md
 
-Modify the structure above if your folder organization is different.
 
-Getting Started
-Clone the Repository
-git clone https://github.com/your-username/netflix-clone.git
-Navigate to the Project
-cd netflix-clone
-Run the Project
 
 Simply open the index.html file in your preferred web browser.
 
