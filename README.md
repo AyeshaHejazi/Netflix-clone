@@ -8,21 +8,7 @@ Preview
 
 The project recreates the following sections of the Netflix landing page:
 <br>
-Hero section
-Navigation bar
-Call-to-action area
-Feature sections
-FAQ section
-Footer
-Responsive layout for multiple screen sizes
-Features
-Responsive design for desktop, tablet, and mobile devices
-Modern UI inspired by Netflix
-Clean and semantic HTML structure
-Organized and maintainable CSS
-Smooth layout with reusable components
-Cross-browser compatible design
-Tech Stack
+Hero section , Navigation bar , Call-to-action area , Feature sections , FAQ section , Footer , Responsive layout for multiple screen sizes , Features , Responsive design for desktop, tablet, and mobile devices , Modern UI inspired by Netflix , Clean and semantic HTML structure , Organized and maintainable CSS , Smooth layout with reusable components , Cross-browser compatible design , Tech Stack
 HTML5
 CSS3
 JavaScript (if applicable)
