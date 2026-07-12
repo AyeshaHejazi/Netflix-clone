@@ -13,6 +13,7 @@ HTML5
 CSS3
 JavaScript (if applicable)
 Project Structure
+<br>
 Netflix-Clone/
 │
 ├── assets/
