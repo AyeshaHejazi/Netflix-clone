@@ -14,8 +14,9 @@ CSS3
 JavaScript (if applicable)
 Project Structure
 <br>
+```text
 Netflix-Clone/
-<br>│
+│
 ├── assets/
 │   ├── images/
 │   ├── icons/
@@ -29,7 +30,7 @@ Netflix-Clone/
 │
 ├── index.html
 └── README.md
-
+```
 
 
 Simply open the index.html file in your preferred web browser.
