@@ -15,7 +15,7 @@ JavaScript (if applicable)
 Project Structure
 <br>
 Netflix-Clone/
-│
+<br>│
 ├── assets/
 │   ├── images/
 │   ├── icons/
